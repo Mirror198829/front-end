@@ -1,1 +1,31 @@
+http事务过程
+报文
+报文格式组成：1.头行	2.头部	3.主体
+请求报文格式
+响应报文格式
+常用http方法
+URL组成
+常见http状态码
+
+
+http事务过程
+
+请求报文格式
+
+请求报文的头行分析：get为请求方法
+			music.163.com 地址
+			HTTP/1.1 http版本
+响应报文格式
+
+常用http方法
+
+URL组成
+
+protocol：协议
+host：主机地址
+port：端口
+pathname：路径名
+hash：当前文档片段
+
+常见http状态码
 
