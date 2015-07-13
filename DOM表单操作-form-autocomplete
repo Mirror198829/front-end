@@ -1,0 +1,7 @@
+如何处理由于浏览器设置导致的autocomplete="off"失效的问题？
+
+<form action="/login" method="post" autoComplete="off">
+    <input type="text" style="display:none">          <! 在真正需要的设置autocomplete=off的元素前，增加一个傀儡元素并隐藏>
+    <input type="text" autoComplete="off" >
+    <button type="submit">提交</button>
+</form>
