@@ -24,6 +24,8 @@
 * vue-router:https://router.vuejs.org/zh-cn/
 * vuex:https://vuex.vuejs.org/zh-cn/
 * chrome插件：vue devtools
+* 小乌龟git：https://tortoisegit.org/download/
+* Git for windows: https://git-scm.com/download/win   http://rj.baidu.com/search/index/?kw=git
 
 # 工具类
 * 最全最准前端资料库（全球）：https://www.javascripting.com/?sort=rating
