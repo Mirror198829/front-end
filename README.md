@@ -22,6 +22,7 @@
 * element库：http://element.eleme.io/#/zh-CN/component/pagination  (快速启动：https://github.com/ElementUI/element-starter)
 * axios:https://www.kancloud.cn/yunye/axios/234845
 * vue-router:https://router.vuejs.org/zh-cn/
+* vue-devtool安装教程:http://www.cnblogs.com/lolDragon/p/6268345.html
 * vuex:https://vuex.vuejs.org/zh-cn/
 * chrome插件：vue devtools
 * 小乌龟git：https://tortoisegit.org/download/
