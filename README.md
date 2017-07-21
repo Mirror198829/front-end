@@ -24,9 +24,6 @@
 * vue-router:https://router.vuejs.org/zh-cn/
 * vue-devtool安装教程:http://www.cnblogs.com/lolDragon/p/6268345.html
 * vuex:https://vuex.vuejs.org/zh-cn/
-* chrome插件：vue devtools
-* 小乌龟git：https://tortoisegit.org/download/
-* Git for windows: https://git-scm.com/download/win   http://rj.baidu.com/search/index/?kw=git
 
 # 工具类
 * 最全最准前端资料库（全球）：https://www.javascripting.com/?sort=rating
@@ -41,6 +38,8 @@
 * lodash(js增强库):http://lodashjs.com/docs/
 * EsLint: http://eslint.cn/
 * <10kb前端库: http://microjs.com/#
+* 小乌龟git：https://tortoisegit.org/download/
+* Git for windows: https://git-scm.com/download/win   http://rj.baidu.com/search/index/?kw=git
 
 # 插件类
 * ACE代码展示块:https://ace.c9.io/#nav=howto
