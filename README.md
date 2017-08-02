@@ -44,6 +44,7 @@
 ### gulp
 * gulp中文官网： http://www.gulpjs.com.cn/
 * gulp插件查询：https://www.npmjs.com/package/gulp-concat
+* gulp的入门指南：https://github.com/nimojs/gulp-book
 
 
 # 插件类
