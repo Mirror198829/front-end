@@ -55,6 +55,7 @@
 * animate.css：https://daneden.github.io/animate.css/
 * fullPage.js 全屏切换：
 * nprogress.js 头部加载进度条：http://ricostacruz.com/nprogress/
+* iCheck:http://icheck.fronteed.com/
 
 
 # 可视工具
