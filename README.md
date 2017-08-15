@@ -15,6 +15,7 @@
 * FontAwesome: http://www.bootcss.com/p/font-awesome/
 * 花瓣网：http://huaban.com/
 * 熊猫ICON：http://www.easyicon.net/
+* 蚂蚁金服设计原则：https://ant.design/docs/spec/introduce-cn
 
 # 框架类
 ## Vue
