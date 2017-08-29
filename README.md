@@ -7,6 +7,7 @@
 
 # 标准类
 * ECMAScript 6 入门（阮一峰）：http://es6.ruanyifeng.com/
+* 阮一峰文档：http://javascript.ruanyifeng.com/advanced/ecmascript6.html#toc14
 
 # CSS
 * Flex布局（阮一峰）：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
