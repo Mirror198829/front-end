@@ -5,9 +5,12 @@
 * segementfault: 	https://segmentfault.com/
 * 百度web前端研发部：http://fex.baidu.com/
 
+# 大牛网站
+* 阮一峰文档：http://javascript.ruanyifeng.com/advanced/ecmascript6.html#toc14
+* 廖雪峰官方网站： https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001438565969057627e5435793645b7acaee3b6869d1374000
+
 # 标准类
 * ECMAScript 6 入门（阮一峰）：http://es6.ruanyifeng.com/
-* 阮一峰文档：http://javascript.ruanyifeng.com/advanced/ecmascript6.html#toc14
 
 # CSS
 * Flex布局（阮一峰）：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
