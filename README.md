@@ -5,7 +5,7 @@
 * segementfault: 	https://segmentfault.com/
 * 百度web前端研发部：http://fex.baidu.com/
 
-# 牛个人网站
+# 大牛个人网站
 * 阮一峰网站：http://javascript.ruanyifeng.com/advanced/ecmascript6.html#toc14
 * 廖雪峰官方网站：https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000
 * 张鑫旭：http://www.zhangxinxu.com/wordpress/category/js/
