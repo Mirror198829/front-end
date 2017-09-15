@@ -15,6 +15,9 @@
 
 # CSS
 * Flex布局（阮一峰）：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+* 字体下载网站： http://www.dafont.com/top.php?text=nlconfig 
+* 字体下载教程： http://www.w3cplus.com/content/css3-font-face
+* 字体转换网站：https://www.fontsquirrel.com/tools/webfont-generator
 
 # 设计类
 * FontAwesome: http://www.bootcss.com/p/font-awesome/
