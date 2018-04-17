@@ -50,6 +50,7 @@
 * 小乌龟git：https://tortoisegit.org/download/
 * Git for windows: https://git-scm.com/download/win   http://rj.baidu.com/search/index/?kw=git
 * Less:http://www.bootcss.com/p/lesscss/   http://less.bootcss.com/#
+* lodash:https://www.lodashjs.com/docs/4.17.5.html
 ### gulp
 * gulp中文官网： http://www.gulpjs.com.cn/
 * gulp插件查询：https://www.npmjs.com/package/gulp-concat
