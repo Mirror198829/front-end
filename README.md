@@ -67,6 +67,9 @@
 * nprogress.js 头部加载进度条：http://ricostacruz.com/nprogress/
 * iCheck:http://icheck.fronteed.com/
 
+# 后端
+* NodeJS:http://nodejs.cn/api/
+* express:http://www.expressjs.com.cn/guide/routing.html
 
 # 可视工具
 * ECharts：http://echarts.baidu.com/    (点击事件：http://echarts.baidu.com/echarts2/doc/example/event.html)
