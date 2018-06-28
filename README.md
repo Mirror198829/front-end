@@ -34,6 +34,7 @@
 * vue-router:https://router.vuejs.org/zh-cn/
 * vue-devtool安装教程:http://www.cnblogs.com/lolDragon/p/6268345.html
 * vuex:https://vuex.vuejs.org/zh-cn/
+* vue-i18n:http://kazupon.github.io/vue-i18n/en/started.html
 
 # 工具类
 * 最全最准前端资料库（全球）：https://www.javascripting.com/?sort=rating
