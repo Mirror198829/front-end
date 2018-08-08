@@ -38,6 +38,7 @@
 
 # 工具类
 * 最全最准前端资料库（全球）：https://www.javascripting.com/?sort=rating
+* git教程： https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 * 大前端工具集（国内）：http://www.jianshu.com/p/083cc66a11b0
 * 大牛在用：https://www.awesomes.cn/weuse
 * Webpack中文官网:https://doc.webpack-china.org/
