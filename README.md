@@ -36,6 +36,7 @@
 * vuex:https://vuex.vuejs.org/zh-cn/
 * vue-i18n:http://kazupon.github.io/vue-i18n/en/started.html
 * minit-ui(移动库，饿了么出品):http://mint-ui.github.io/#!/zh-cn
+* vue-codemirror: https://www.npmjs.com/package/vue-codemirror
 
 # 工具类
 * 最全最准前端资料库（全球）：https://www.javascripting.com/?sort=rating
@@ -75,6 +76,7 @@
 * fullPage.js 全屏切换：
 * nprogress.js 头部加载进度条：http://ricostacruz.com/nprogress/
 * iCheck:http://icheck.fronteed.com/
+* codemirror(代码块展示): https://codemirror.net/demo/folding.html 
 
 # 后端
 * NodeJS:http://nodejs.cn/api/
