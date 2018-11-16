@@ -19,6 +19,7 @@
 * 字体下载教程： http://www.w3cplus.com/content/css3-font-face
 * 字体转换网站：https://www.fontsquirrel.com/tools/webfont-generator
 * Flex布局示例：http://static.vgee.cn/static/index.html
+* 字体下载：https://www.fontsquirrel.com/fonts/list/hot
 
 # 设计类
 * FontAwesome: http://www.bootcss.com/p/font-awesome/
