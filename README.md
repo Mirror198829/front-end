@@ -62,12 +62,13 @@
 # api工具
 * YApi: https://yapi.ymfe.org/index.html  （文档）<br/>
         http://yapi.demo.qunar.com/group/24207
-# gulp
+# 打包构建工具
+#### gulp
 * gulp中文官网： http://www.gulpjs.com.cn/
 * gulp插件查询：https://www.npmjs.com/package/gulp-concat
 * gulp的入门指南：https://github.com/nimojs/gulp-book
-
-
+#### FIS3百度
+* FIS3: https://fis.baidu.com/
 # 插件类
 * ACE代码展示块:https://ace.c9.io/#nav=howto
 * jstree递归树：github已关注
