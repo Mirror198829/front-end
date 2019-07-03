@@ -83,6 +83,7 @@
 # 后端
 * NodeJS:http://nodejs.cn/api/
 * express:http://www.expressjs.com.cn/guide/routing.html
+* webssh工具： https://github.com/billchurch/webssh2  （通过nodejs启动服务）
 
 # 可视工具
 * ECharts：http://echarts.baidu.com/    (点击事件：http://echarts.baidu.com/echarts2/doc/example/event.html)
