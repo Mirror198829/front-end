@@ -61,8 +61,8 @@
 # 轮播图
 * swiper:http://www.swiper.com.cn/
 # api工具
-* YApi: https://yapi.ymfe.org/index.html  （文档）<br/>
-        http://yapi.demo.qunar.com/group/24207
+* YApi: https://yapi.ymfe.org/index.html  （文档）http://yapi.demo.qunar.com/group/24207
+* showDoc: https://www.showdoc.com.cn/   写技术文档
 # 打包构建工具
 #### gulp
 * gulp中文官网： http://www.gulpjs.com.cn/
